@@ -1,18 +1,18 @@
-suidao
-======
+didao
+=====
 
-"Suidao" is a Real-Time Strategy game under "heavy" development and is
-intended as a major project for AbyssMaul and DpEpsilon's Software
-Design and Documentation course. It has ridiculous features.
+"Didao" is a Real-Time Strategy game under "heavy" development and was
+originally intended as a major project for AbyssMaul and DpEpsilon's
+Software Design and Documentation course. It has ridiculous features.
 
-It will be written in C++ and Lua, with the engine in C++ and various
-nscripts for unit/building behaviour, artificial intelligence and other
+It is written in C++ and Lua, with the engine in C++ and various
+scripts for unit/building behaviour, artificial intelligence and other
 specific game details written in Lua.
 
 License
 -------
 
-Suidao Copyright (C) 2013-2014  Oliver Fisher and Daniel Phillips
+Didao Copyright (C) 2013-2014  Oliver Fisher and Daniel Phillips
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -26,6 +26,14 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+Compiling
+---------
+
+    $ make
+
+Makefile tested under GNU/Linux. Should work on Mac OS X, though this
+is untested. Needs tweaking and MinGW to work under Windows.
 
 Dependencies
 ------------
