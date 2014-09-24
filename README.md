@@ -1,9 +1,13 @@
-didao
+Didao
 =====
 
 "Didao" is a Real-Time Strategy game under "heavy" development and was
 originally intended as a major project for AbyssMaul and DpEpsilon's
-Software Design and Documentation course. It has ridiculous features.
+Software Design and Documentation course, during which it was
+developed under the working name "Suidao". It has ridiculous features
+planned, the most significant being destructable terrain facilitating
+the creation of tunnels. The gameplay will be built around this
+experimental game mechanic.
 
 It is written in C++ and Lua, with the engine in C++ and various
 scripts for unit/building behaviour, artificial intelligence and other

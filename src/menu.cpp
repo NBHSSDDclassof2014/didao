@@ -48,7 +48,7 @@ Menu::Menu() {}
 // Sets up the menu, initialising the text boxes
 void Menu::Init() {
 	this->boxes["title"] = TextBox(150, 75, 245, 75, 0, 0, 0, 0,
-			"SUIDAO", 0, 0, 0, "content/font.ttf", 27);
+			"DIDAO", 0, 0, 0, "content/font.ttf", 27);
 	this->boxes["play"] = TextBox(100, 50, 75, 350, true, 0, 0, 0, 
 			"PLAY", 0, 255, 0, "content/font.ttf", 18);
 	this->boxes["quit"] = TextBox(100, 50, 465, 350, true, 0, 0, 0,
