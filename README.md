@@ -1,9 +1,9 @@
-suidao
+Didao
 ======
 
-"Suidao" is a Real-Time Strategy game under "heavy" development and is
-intended as a major project for AbyssMaul and DpEpsilon's Software
-Design and Documentation course. It has ridiculous features.
+"Didao" is a Real-Time Strategy game that is an offshoot of the original
+"Suidao", AbyssMaul and DpEpsilon's SDD major work.It has ridiculous features
+planned.
 
 It will be written in C++ and Lua, with the engine in C++ and various
 nscripts for unit/building behaviour, artificial intelligence and other
