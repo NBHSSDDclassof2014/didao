@@ -46,6 +46,10 @@ Dependencies
 - JsonCpp
 - Lua 5.2
 
+```
+sudo apt install liblua5.2-dev libjsoncpp-dev libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libsdl2-ttf-dev
+```
+
 ### Other Licenses ###
 
 The following files are taken/derived from files from the
