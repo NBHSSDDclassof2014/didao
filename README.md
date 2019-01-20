@@ -13,6 +13,8 @@ It is written in C++ and Lua, with the engine in C++ and various
 scripts for unit/building behaviour, artificial intelligence and other
 specific game details written in Lua.
 
+It is not worth running at the moment unless you intend to alter it.
+
 License
 -------
 
